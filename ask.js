@@ -15,7 +15,7 @@ process.stdin.on('data', function(data) {
   answers.push(data.toString().trim())
 
   if(answers.length < questions.length)  {
-    ask(answers.lenght)
+    ask(answers.length)
   } else {
     process.exit()
   }
