@@ -1,0 +1,20 @@
+{
+  "name": "npm-working",
+  "version": "1.0.0",
+  "description": "a collectio working with npm",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "httpster": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm-working"
+  ],
+  "author": "Alexandre Oliveira",
+  "license": "MIT"
+}
